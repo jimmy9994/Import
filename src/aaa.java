@@ -16,6 +16,7 @@ public class aaa {
 		int tab[] = new int[10];
 		int wyniki[] = new int[10];
 		System.out.println("Change");
+		System.out.println("Change2");
 		/*
 		for (int i = 0; i < 10; i++)
 		{
