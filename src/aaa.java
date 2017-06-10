@@ -15,7 +15,7 @@ public class aaa {
 		max = wczytaj.nextInt();
 		int tab[] = new int[10];
 		int wyniki[] = new int[10];
-		
+		System.out.println("Change");
 		/*
 		for (int i = 0; i < 10; i++)
 		{
